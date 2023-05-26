@@ -22,4 +22,4 @@
 
 
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuhuynh&hide=hide=jupyter notebook)](https://github.com/anuraghazra/github-readme-stats)
+
