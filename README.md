@@ -18,7 +18,8 @@
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-JupyterNotebook-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=003B57)
+![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=Tensorflow&color=orange)
 
 
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuhuynh)](https://github.com/hoangtuhuynh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtuhuynh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
