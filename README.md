@@ -3,7 +3,6 @@
 <p align=”center”>
 <img width=100% alt="image" src="https://user-images.githubusercontent.com/112784663/226096577-f13a706a-0c13-470d-82a9-37cc57b5560f.png" alt=”my banner”>
 </p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangtuhuynh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
 ##  💼 Technical Skills
 
